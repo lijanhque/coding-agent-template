@@ -42,7 +42,7 @@
     "@vercel/sandbox": "^0.0.21",
     "@vercel/sdk": "^1.13.9",
     "@vercel/speed-insights": "^1.2.0",
-    "ai": "5.0.51",
+    "ai": "5.0.52",
     "arctic": "^3.7.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
